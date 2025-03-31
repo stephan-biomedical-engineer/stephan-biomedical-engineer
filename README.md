@@ -24,7 +24,7 @@
 
 --- 
 
-## My Skills
+## Mine Skills
 
 **General Development**
 
@@ -44,7 +44,7 @@
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Development tools**
+**Ferramentas de desenvolvimento**
 
 ![ESP32](https://img.shields.io/badge/ESP32-000080?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000080?style=for-the-badge&logo=espressif&logoColor=white)
@@ -63,3 +63,5 @@
 
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/stephan-costa-barros-4a9a24267/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephan-costa-barros-4a9a24267/) to explore my professional experience or reach out via email [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephanbrrs8@gmail.com) for any inquiries.
