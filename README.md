@@ -24,7 +24,7 @@
 
 --- 
 
-## Mine Skills
+## My Skills
 
 **General Development**
 
