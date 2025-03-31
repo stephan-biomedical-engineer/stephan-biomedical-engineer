@@ -24,7 +24,7 @@
 
 --- 
 
-## Mine Skills
+## My Skills
 
 **General Development**
 
@@ -44,7 +44,7 @@
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+**Development tools**
 
 ![ESP32](https://img.shields.io/badge/ESP32-000080?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000080?style=for-the-badge&logo=espressif&logoColor=white)
