@@ -61,6 +61,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-biomedical-engineer&theme=dark&show_icons=true" />
 </a>
 
+
+
 **Feel free to connect with me on LinkedIn to explore my professional experience or reach out via email for any inquiries.**
 
 Click on the icons below:
