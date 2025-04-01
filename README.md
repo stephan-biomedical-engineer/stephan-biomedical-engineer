@@ -61,4 +61,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephan-biomedical-engineer&theme=dark&show_icons=true" />
 </a>
 
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephan-costa-barros-4a9a24267/) to explore my professional experience or reach out via email [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephanbrrs8@gmail.com) for any inquiries.
+**Feel free to connect with me on LinkedIn to explore my professional experience or reach out via email for any inquiries.**
+
+Click on the icons below:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephan-costa-barros-4a9a24267/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephanbrrs8@gmail.com)
